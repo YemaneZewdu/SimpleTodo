@@ -26,7 +26,11 @@ The following additional features are implemented:
 
 ## Video Walkthrough
 Here's a walkthrough of implemented user stories:
+
+ <img src='walkthough.gif' title='Video Walkthrough' width='' alt='Video Walkthrough'/>
  
- ## Notes
+ GIF created with [LiceCap](http://www.cockos.com/licecap/).
+
+## Notes
  
  Describe any challenges encountered while building the app

@@ -13,7 +13,7 @@ The following **required** functionality is completed:
 
 The following **optional** features are implemented:
 
-* [ ] Persist the todo items into SQLite instead of a text file
+* [ ] Persist the todo items into SQLite instead of a text file 
 * [ ] Improve style of the todo items in the list using a custom adapter
 * [ ] Add support for completion due dates for todo items (and display within listview item)
 * [ ] Use a DialogFragment instead of new Activity for editing items
